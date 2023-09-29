@@ -9,9 +9,6 @@ Write your code in this editor and press "Run" button to execute it.
 
 package main
 
-
-
-
 import (
 	"fmt"
 	"strings"
@@ -19,8 +16,6 @@ import (
 	"strconv"
 	"os"
 )
-
-
 
 func main() {
 
